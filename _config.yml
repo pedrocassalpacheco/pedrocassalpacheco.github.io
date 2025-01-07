@@ -22,8 +22,9 @@ author: Pedro Pacheco
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Graph Theory: "https://en.wikipedia.org/wiki/Graph_theory"
+    - 7 Bridges: "https://en.wikipedia.org/wiki/Seven_Bridges_of_K%C3%B6nigsberg/"
+    - Graph Learning: "https://arxiv.org/pdf/2105.00696"
   Author's home: "https://www.linkedin.com/in/pedrocassalpacheco/"
 
 ################
@@ -126,7 +127,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "graph machine learning, graph theory, graph databases, large language models, embeddings"
 
 ######################################
 # --- Colours / background image --- #
